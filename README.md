@@ -28,7 +28,7 @@ Contributions, issues, and feature requests are welcome! <br>
 <b>Show your support</b><br>
 Give a ⭐️ if you like this project!<br>
 
-<b>Acknowledgements</b><br>
+<b>Acknow ledgements</b><br>
 Thank you for supporting me in this early stage.<br>
 
 Built with clarity, modern design, and focus on showcasing innovative solutions.<br>
