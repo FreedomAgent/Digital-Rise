@@ -17,7 +17,7 @@ To run this application please follow these steps: To run this application pleas
 
 1.Clone the repo onto your local machine using the HTTPS link. <br>
 2.Open the project using your browser by; -Installing a live server extension in Visual Studio Code and right clicking on the index.html file then click the first option 1 (Open with Live Server). <br>
-#####👤 <b>Authors</b> <br>
+👤 <b>Authors</b> <br>
 <b>FreedomAgent</b> (TRUONG HOANG DUONG) <br>
 
 GitHub: @FreedomAgent <br>
