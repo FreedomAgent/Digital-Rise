@@ -1,6 +1,6 @@
 # Vision Rise
 
-This repository contains a simple HTML+CSS website for **Vision Rise**, operating in the **Online Tutoring Platforms** industry.
+This repository contains a HTML+CSS website for **Vision Rise**, operating in the **Online Tutoring Platforms** industry.
 
 ## Pages Included
 - **Home**: Overview of the company
